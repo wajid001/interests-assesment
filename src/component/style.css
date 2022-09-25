@@ -1,0 +1,48 @@
+.skill-container{
+    display: flex;
+    gap:8px;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.skill-item {
+    /* width: 130px; */
+    height: 25px;
+    border-radius: 15px;
+    padding: 15px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.skill-item:hover{
+    cursor: pointer;
+}
+.text-green {
+    color :#08AA33
+}
+.selected {
+    outline : 1px solid #08AA33
+}
+
+.plus-icon{
+    font-size: 15px;
+}
+
+.un-selected{
+    outline : 1px solid transparent;
+    background-color: #E5E6E5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn-group{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.next-btn{ 
+    padding:3px 50px !important;
+    border-radius: 20px !important; 
+    background-color : #08AA33 !important; 
+    color: white !important;
+}
+

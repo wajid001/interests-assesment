@@ -1,0 +1,130 @@
+export const interests=[{
+    id:1,
+    name:'Python',
+    selected:false
+},{
+    id:2,
+    name:'Deep Learning',
+    selected:false
+},{
+    id:3,
+    name:'Web Development',
+    selected:false
+},
+{
+    id:4,
+    name:'Startup',
+    selected:false
+},
+{
+    id:5,
+    name:'Design',
+    selected:false
+},
+{
+    id:6,
+    name:'JavaScript',
+    selected:false
+},
+{
+    id:7,
+    name:'Artificial Intelligence',
+    selected:false
+},
+{
+    id:8,
+    name:'Software Development',
+    selected:false
+},
+{
+    id:9,
+    name:'Entrepreneurship',
+    selected:false
+},
+{
+    id:10,
+    name:'UX',
+    selected:false
+},
+{
+    id:11,
+    name:'React',
+    selected:false
+},
+{
+    id:12,
+    name:'Blockchain',
+    selected:false
+},
+{
+    id:13,
+    name:'Software Engineering',
+    selected:false
+},
+{
+    id:14,
+    name:'Technology',
+    selected:false
+},
+{
+    id:15,
+    name:'Programing',
+    selected:false
+},
+{
+    id:16,
+    name:'Philosophy',
+    selected:false
+},
+{
+    id:17,
+    name:'NLP',
+    selected:false
+},
+{
+    id:18,
+    name:'Economics',
+    selected:false
+},
+{
+    id:19,
+    name:'World',
+    selected:false
+},
+{
+    id:20,
+    name:'Dev Ops',
+    selected:false
+},
+{
+    id:21,
+    name:'Ethereum',
+    selected:false
+},
+{
+    id:22,
+    name:'Product Management',
+    selected:false
+},
+{
+    id:23,
+    name:'Data Virtualization',
+    selected:false
+},
+{
+    id:24,
+    name:'Feminism',
+    selected:false
+},
+{
+    id:25,
+    name:'Equality',
+    selected:false
+},
+{
+    id:26,
+    name:'Freelancing',
+    selected:false
+}
+
+]
